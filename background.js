@@ -56,7 +56,6 @@ async function getData(campaign, character) {
         "Component Pouch",
     ]);
     const knownDoubleSlot = new Set([
-        "Quarterstaff",
         "Tent",
         "Hunting Trap",
     ]);
